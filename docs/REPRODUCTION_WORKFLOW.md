@@ -187,5 +187,3 @@ If this research code is used or adapted, cite the associated research article a
 
 K. Research code archive and version identification
 GitHub repository: https://github.com/HoaThiPham/RBF-Accuracy-to-Uncertainty  
-
-The Zenodo concept DOI above identifies the version series, not the exact MATLAB code release. For reproducibility, cite the version-specific DOI shown on the record for the complete manuscript-matched release. GitHub changes made after a release do not alter the files already preserved by Zenodo.
