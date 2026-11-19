@@ -1,0 +1,35 @@
+NON-COMMERCIAL ACADEMIC RESEARCH CODE LICENSE
+Version 1.0
+
+Copyright (c) 2026 Hoa Thi Pham.
+All rights reserved except as expressly licensed below.
+
+Research Code: From Accuracy to Uncertainty: A Framework for RBF Interpolation Comparable to Kriging — MATLAB Research Code and Reproducibility Package (the "Research Code").
+Copyright Holder: Hoa Thi Pham (the "Licensor").
+Contact: thihoa.pham@curtin.edu.au, pthoa.tdbd@hunre.edu.au
+
+1. Grant of permission
+Subject to the conditions below, the Licensor grants any person or institution a non-exclusive, worldwide, royalty-free, non-transferable permission to download, copy, execute, study, and modify the Research Code, including developing new non-commercial research methods derived from it, solely for Non-Commercial Research Purposes. Researchers may use such methods and their experimental results in scholarly theses, presentations, preprints, and peer-reviewed publications.
+
+2. Non-Commercial Research Purposes
+"Non-Commercial Research Purposes" means research, teaching, scholarly evaluation, methodological development, and reproducibility work not primarily intended for commercial advantage or monetary compensation. Ordinary publication in academic journals, including journals operated by commercial publishers, does not by itself constitute commercial use of the Research Code. Institutional status alone does not determine whether a specific use is non-commercial. Contract research for a commercial client, incorporation into a paid product or service, or use primarily to generate commercial revenue is excluded without separate written permission.
+
+3. Research modifications and sharing
+Users may modify and share the Research Code or modified versions with other researchers solely for Non-Commercial Research Purposes, including as supplementary material or within a public scholarly code repository, provided that (a) they preserve this license and the original copyright notice, (b) they identify their modifications and avoid representing them as the original version, (c) they include a prominent reference to the original Research Code repository and version, and (d) recipients receive the Research Code under these same conditions. No broader rights to redistribute or license the original Research Code are granted.
+
+4. Attribution and scholarly citation
+Any redistribution must include the copyright notice, license text, and identification of the original Research Code. In scholarly publications, theses, preprints, or reports materially using, adapting, or extending the Research Code, users must acknowledge the Research Code and cite the associated research article and the version-specific archived research code DOI when those bibliographic identifiers are available. If publication identifiers are not yet available, users must cite the repository URL, research code title, copyright holder, and accessed version or commit.
+
+5. Prohibited uses without separate written permission
+No permission is granted for commercial exploitation, commercialization of derivative code, offering the Research Code or derivative code as a paid service, sublicensing under terms inconsistent with this license, or removing copyright and license notices. Requests for commercial licensing may be directed to the Licensor.
+
+6. Third-party materials and data
+This license covers only materials for which the Licensor has authority to grant these rights. Third-party components remain subject to their own licenses. Restricted geodetic datasets are not included and no rights to those datasets are granted.
+
+7. No warranty; limitation of liability
+THE RESEARCH CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL NOT BE LIABLE FOR CLAIMS OR DAMAGES ARISING FROM USE OF THE RESEARCH CODE.
+
+8. Termination
+Permission under this license terminates automatically upon material non-compliance. Rights may be reinstated upon written confirmation from the Licensor. Rights or exceptions supplied independently by applicable law are unaffected.
+
+This is a custom, non-OSI-approved, source-available research code license, not an open-source license.
