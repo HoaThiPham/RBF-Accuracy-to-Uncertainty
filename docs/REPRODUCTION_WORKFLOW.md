@@ -3,7 +3,7 @@ Associated manuscript: From Accuracy to Uncertainty: A Framework for RBF Interpo
 Journal: Applied Mathematics and Computation  
 Research code package: MATLAB Global-RBF and Local-RBF workflows  
 Repository: https://github.com/HoaThiPham/RBF-Accuracy-to-Uncertainty  
-Zenodo archive (all versions): https://doi.org/10.5281/zenodo.24375248  
+
 
 Manuscript-matched release: `v1.0.1` (planned; confirm that this release has been published and verified before citing its DOI)
 This document separates the expensive model-generation stages from the manuscript-output stages. It preserves the execution sequence and output conventions of the research package. The public source archive does not include the restricted original geodetic observations or the prepared manuscript input MAT files. Consequently, access to the source code alone does not permit exact numerical reproduction of the manuscript's empirical results.
@@ -182,12 +182,10 @@ Authors (manuscript order): Hoa Thi Pham; Sten Claessens; Ngoc-Tu Nguyen; Yangka
 Journal: Applied Mathematics and Computation  
 Corresponding author: Hoa Thi Pham (`thihoa.pham@curtin.edu.au`; `pthoa.tdbd@hunre.edu.vn`)  
 GitHub repository: https://github.com/HoaThiPham/RBF-Accuracy-to-Uncertainty  
-Zenodo archive (all versions): https://doi.org/10.5281/zenodo.24375248  
-Zenodo DOI for complete `v1.0.1` release: To be added after Zenodo has archived and verified the release  
 Article DOI: To be added after assignment
 If this research code is used or adapted, cite the associated research article and the version-specific Zenodo record of the code actually used. The research code is distributed under the accompanying Non-Commercial Academic Research Code License — Version 1.0, subject to the licence terms; copyright holder: Hoa Thi Pham. The code archive and restricted original geodetic data are governed by separate access and reuse conditions.
 
 K. Research code archive and version identification
 GitHub repository: https://github.com/HoaThiPham/RBF-Accuracy-to-Uncertainty  
-Zenodo archive (all versions): https://doi.org/10.5281/zenodo.24375248
+
 The Zenodo concept DOI above identifies the version series, not the exact MATLAB code release. For reproducibility, cite the version-specific DOI shown on the record for the complete manuscript-matched release. GitHub changes made after a release do not alter the files already preserved by Zenodo.
