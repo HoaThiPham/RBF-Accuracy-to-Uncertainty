@@ -42,9 +42,6 @@ authors:
   - family-names: Van Kranendonk
     given-names: Martin
     affiliation: School of Earth and Planetary Sciences, Curtin University
-version: 1.0.1
-# Complete remaining metadata when the v1.0.1 archive is published:
-# Confirm that the authors listed above are the agreed research-code creators.
 # Copyright holder: Hoa Thi Pham (recorded separately in LICENSE).
 # Additional contact address: pthoa.tdbd@hunre.edu.vn
 repository-code: "https://github.com/HoaThiPham/RBF-Accuracy-to-Uncertainty"
