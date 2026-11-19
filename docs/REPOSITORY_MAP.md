@@ -130,6 +130,3 @@ The package includes Global-RBF and Local-RBF implementations, parameter optimis
 Research Code Archive
 GitHub repository:  
 https://github.com/HoaThiPham/RBF-Accuracy-to-Uncertainty
-Zenodo archive (all versions):  
-https://doi.org/10.5281/zenodo.24375248
-For reproducibility, please cite the version-specific DOI of the research code release corresponding to the published manuscript results.
