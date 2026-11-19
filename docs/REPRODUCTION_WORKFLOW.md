@@ -4,6 +4,7 @@ Journal: Applied Mathematics and Computation
 Research code package: MATLAB Global-RBF and Local-RBF workflows  
 Repository: https://github.com/HoaThiPham/RBF-Accuracy-to-Uncertainty  
 Zenodo archive (all versions): https://doi.org/10.5281/zenodo.24375248  
+
 Manuscript-matched release: `v1.0.1` (planned; confirm that this release has been published and verified before citing its DOI)
 This document separates the expensive model-generation stages from the manuscript-output stages. It preserves the execution sequence and output conventions of the research package. The public source archive does not include the restricted original geodetic observations or the prepared manuscript input MAT files. Consequently, access to the source code alone does not permit exact numerical reproduction of the manuscript's empirical results.
 Scope and requirements
