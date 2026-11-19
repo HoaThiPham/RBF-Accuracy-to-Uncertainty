@@ -22,7 +22,7 @@ authors:
       Faculty of Surveying, Mapping and Geographic Information,
       Hanoi University of Natural Resources and Environment;
       School of Earth and Planetary Sciences, Curtin University
-    email: thihoa.pham@curtin.edu.au
+    email: thihoa.pham@curtin.edu.au; pthoa.tdbd@hunre.edu.vn
   - family-names: Claessens
     given-names: Sten
     affiliation: School of Earth and Planetary Sciences, Curtin University
@@ -42,14 +42,12 @@ authors:
   - family-names: Van Kranendonk
     given-names: Martin
     affiliation: School of Earth and Planetary Sciences, Curtin University
-version: 1.0.0
-# Add the following metadata only after the identifiers are active:
+version: 1.0.1
+# Complete remaining metadata when the v1.0.1 archive is published:
 # Confirm that the authors listed above are the agreed research-code creators.
 # Copyright holder: Hoa Thi Pham (recorded separately in LICENSE).
 # Additional contact address: pthoa.tdbd@hunre.edu.vn
-# repository-code: "https://github.com/ACCOUNT/RBF-Accuracy-to-Uncertainty"
-# doi: "10.5281/zenodo.ACTUAL_VERSION_ID"
-# date-released: YYYY-MM-DD
-# Add article publication details to README.md once published.
+repository-code: "https://github.com/HoaThiPham/RBF-Accuracy-to-Uncertainty"
+# This is executable MATLAB research code; CFF uses type: software as a metadata category.
 # The custom non-commercial licence is documented in LICENSE; do not
 # enter an SPDX identifier for a different licence.
