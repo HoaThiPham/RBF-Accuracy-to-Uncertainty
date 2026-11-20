@@ -1,8 +1,10 @@
 cff-version: 1.2.0
 message: >-
-  If you use this MATLAB research code package, please cite the
-  version-specific Zenodo research code archive and the associated
-  research article when published.
+  If you use this MATLAB research code package, please cite both
+  the version-specific Zenodo research code archive
+  (https://doi.org/10.5281/zenodo.24376136)
+  and the associated published research article
+  (https://doi.org/10.1016/j.amc.2026.130419).
 type: software
 title: >-
   From Accuracy to Uncertainty: A Framework for RBF Interpolation
@@ -44,3 +46,25 @@ authors:
     affiliation: School of Earth and Planetary Sciences, Curtin University
 version: 1.0.1
 repository-code: "https://github.com/HoaThiPham/RBF-Accuracy-to-Uncertainty"
+doi: "10.5281/zenodo.24376136"
+preferred-citation:
+  type: article
+  title: >-
+    From Accuracy to Uncertainty: A Framework for RBF
+    Interpolation Comparable to Kriging
+  authors:
+    - family-names: Pham
+      given-names: Hoa Thi
+    - family-names: Claessens
+      given-names: Sten
+    - family-names: Nguyen
+      given-names: Ngoc-Tu
+    - family-names: Yu
+      given-names: Yangkang
+    - family-names: Pham
+      given-names: Sonny
+    - family-names: Van Kranendonk
+      given-names: Martin
+  journal: Applied Mathematics and Computation
+  year: 2026
+  doi: "10.1016/j.amc.2026.130419""
