@@ -42,9 +42,8 @@ authors:
   - family-names: Van Kranendonk
     given-names: Martin
     affiliation: School of Earth and Planetary Sciences, Curtin University
-# Copyright holder: Hoa Thi Pham (recorded separately in LICENSE).
-# Additional contact address: pthoa.tdbd@hunre.edu.vn
+Copyright holder: Hoa Thi Pham (recorded separately in LICENSE).
+Additional contact address: pthoa.tdbd@hunre.edu.vn
 repository-code: "https://github.com/HoaThiPham/RBF-Accuracy-to-Uncertainty"
-# This is executable MATLAB research code; CFF uses type: software as a metadata category.
-# The custom non-commercial licence is documented in LICENSE; do not
-# enter an SPDX identifier for a different licence.
+ This is executable MATLAB research code; CFF uses type: software as a metadata category.
+ The custom non-commercial licence is documented in LICENSE; do not enter an SPDX identifier for a different licence.
