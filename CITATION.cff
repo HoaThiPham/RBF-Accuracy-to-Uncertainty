@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: >-
+  If you use this MATLAB research code package, please cite the
+  version-specific Zenodo research code archive and the associated
+  research article when published.
+type: software
+title: >-
+  From Accuracy to Uncertainty: A Framework for RBF Interpolation
+  Comparable to Kriging — MATLAB Research Code and Reproducibility Package
+abstract: >-
+  MATLAB research code package accompanying the manuscript
+  "From Accuracy to Uncertainty: A Framework for RBF Interpolation
+  Comparable to Kriging". The package provides Global- and Local-RBF
+  workflows, parameter optimisation, bootstrap uncertainty calibration,
+  sensitivity analyses, configuration settings, random seeds, and scripts
+  for generating principal figures and tables. Restricted geodetic data
+  are not included.
+authors:
+  - family-names: Pham
+    given-names: Hoa Thi
+    affiliation: >-
+      Faculty of Surveying, Mapping and Geographic Information,
+      Hanoi University of Natural Resources and Environment;
+      School of Earth and Planetary Sciences, Curtin University
+    email: thihoa.pham@curtin.edu.au
+  - family-names: Claessens
+    given-names: Sten
+    affiliation: School of Earth and Planetary Sciences, Curtin University
+  - family-names: Nguyen
+    given-names: Ngoc-Tu
+    affiliation: >-
+      University of Information Technology;
+      Vietnam National University Ho Chi Minh City
+  - family-names: Yu
+    given-names: Yangkang
+    affiliation: School of Earth and Planetary Sciences, Curtin University
+  - family-names: Pham
+    given-names: Sonny
+    affiliation: >-
+      School of Electrical Engineering, Computing and Mathematical Sciences,
+      Curtin University
+  - family-names: Van Kranendonk
+    given-names: Martin
+    affiliation: School of Earth and Planetary Sciences, Curtin University
+version: 1.0.1
+repository-code: "https://github.com/HoaThiPham/RBF-Accuracy-to-Uncertainty"
