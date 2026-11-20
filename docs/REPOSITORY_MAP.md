@@ -4,6 +4,8 @@
 
 **Journal:** *Applied Mathematics and Computation*
 
+**Article DOI:** https://doi.org/10.1016/j.amc.2026.130419
+
 This map documents the source tree in the accompanying MATLAB code package. All paths below are relative to the repository root. The listings preserve the exact filename spelling, including the original `Boostrap`/`Bootstrap` naming variants, so that links correspond to the actual MATLAB files.
 
 ## Repository entry point
@@ -167,6 +169,8 @@ Repository and reproduction documentation.
 
 This repository contains the MATLAB research code and reproducibility materials accompanying the article *From Accuracy to Uncertainty: A Framework for RBF Interpolation Comparable to Kriging*.
 
+**Article DOI:** https://doi.org/10.1016/j.amc.2026.130419
+
 The package includes Global-RBF and Local-RBF implementations, parameter optimisation, bootstrap uncertainty calibration, sensitivity analyses, and scripts for generating the principal manuscript figures and tables.
 
 ## Research Code Archive
@@ -174,5 +178,7 @@ The package includes Global-RBF and Local-RBF implementations, parameter optimis
 **GitHub repository:**  
 https://github.com/HoaThiPham/RBF-Accuracy-to-Uncertainty
 
-For reproducibility, please cite the version-specific DOI of the research code release corresponding to the published manuscript results.
+**Zenodo research code DOI (v1.0.1):**  
+https://doi.org/10.5281/zenodo.24376136
 
+For reproducibility, please cite the version-specific Zenodo DOI of the research code release corresponding to the published manuscript results.
