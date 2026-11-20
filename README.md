@@ -10,7 +10,7 @@ The package includes Global-RBF and Local-RBF implementations, parameter optimis
 
 **Journal:** *Applied Mathematics and Computation* (Elsevier)
 
-**Article DOI:** To be added when assigned.
+**Article DOI:** https://doi.org/10.1016/j.amc.2026.130419
 
 ### Authors
 
