@@ -1,9 +1,13 @@
 # Reproduction workflow
 
-**Associated manuscript:** *From Accuracy to Uncertainty: A Framework for RBF Interpolation Comparable to Kriging*  
+
+
+**Associated article:** *From Accuracy to Uncertainty: A Framework for RBF Interpolation Comparable to Kriging*  
 **Journal:** *Applied Mathematics and Computation*  
+**Article DOI:** https://doi.org/10.1016/j.amc.2026.130419  
 **Research code package:** MATLAB Global-RBF and Local-RBF workflows  
-**Repository:** https://github.com/HoaThiPham/RBF-Accuracy-to-Uncertainty
+**Repository:** https://github.com/HoaThiPham/RBF-Accuracy-to-Uncertainty  
+**Archived research code (v1.0.1):** https://doi.org/10.5281/zenodo.24376136
 
 
 
@@ -256,29 +260,29 @@ The current workflows are internally consistent with the documented project-root
 
 The repository documents **methodological availability**, not unrestricted access to the input data or automatic reproduction of empirical findings. A figure exported successfully from saved data is not independent validation of the earlier computational stages.
 
-## I. Verification before the complete GitHub/Zenodo release
 
-1. Confirm the released source files and script paths match the code used for the manuscript's final results.
-2. Record MATLAB, toolbox, and operating-system versions actually used. Check path portability on the intended supported platform(s).
-3. Review files and Git history for restricted raw/processed observations, coordinate metadata, intermediate MAT files, embedded confidential paths, and unauthorised outputs.
-4. Verify that public documentation correctly identifies the required input structures and dependencies without promising access to restricted observations.
-5. Verify manuscript figures/tables and their source outputs against the final manuscript; record any exceptions.
-6. Once the complete release has been archived, cite its **version-specific** Zenodo DOI in the manuscript alongside the GitHub repository URL. Use the concept DOI only for navigation across versions, and add the article DOI to the README when available.
+## I. Release verification
+
+1. Confirm that the archived source files and script paths match the code used to produce the published results.
+2. Document the MATLAB, toolbox, and operating-system versions actually used, and verify path portability on the intended supported platforms.
+3. Check released files and Git history for restricted observations, coordinate metadata, intermediate MAT files, confidential paths, and unauthorised outputs.
+4. Verify that the documentation accurately describes required inputs and dependencies without implying that restricted data are publicly available.
+5. Cross-check the article's figures and tables against the corresponding generated outputs, documenting any discrepancies.
+6. Verify that the archived release matches the version-specific Zenodo record cited in the article.
 
 ## J. Associated publication and citation
 
-**Manuscript:** *From Accuracy to Uncertainty: A Framework for RBF Interpolation Comparable to Kriging*  
+**Article:** *From Accuracy to Uncertainty: A Framework for RBF Interpolation Comparable to Kriging*  
 **Authors:** Hoa Thi Pham; Sten Claessens; Ngoc-Tu Nguyen; Yangkang Yu; Sonny Pham; Martin Van Kranendonk  
 **Journal:** *Applied Mathematics and Computation*  
+**Article DOI:** https://doi.org/10.1016/j.amc.2026.130419  
 **Corresponding author:** Hoa Thi Pham (`thihoa.pham@curtin.edu.au`; `pthoa.tdbd@hunre.edu.vn`)  
 **GitHub repository:** https://github.com/HoaThiPham/RBF-Accuracy-to-Uncertainty  
-**Article DOI:** To be added after assignment
+**Archived research code (v1.0.1):** https://doi.org/10.5281/zenodo.24376136
 
-If this research code is used or adapted, cite the associated research article and the version-specific Zenodo record of the code actually used. The research code is distributed under the accompanying **Non-Commercial Academic Research Code License — Version 1.0**, subject to the licence terms; copyright holder: **Hoa Thi Pham**. The code archive and restricted original geodetic data are governed by separate access and reuse conditions.
+When using or adapting this research code, cite both the published article and the version-specific Zenodo archive corresponding to the code used.
 
+**Licence:** Non-Commercial Academic Research Code License — Version 1.0.  
+**Copyright:** © 2026 Hoa Thi Pham.
 
-
-## K. Research code archive and version identification
-
-**GitHub repository:** https://github.com/HoaThiPham/RBF-Accuracy-to-Uncertainty
-
+The research code and restricted geodetic data are subject to separate access and reuse conditions.
