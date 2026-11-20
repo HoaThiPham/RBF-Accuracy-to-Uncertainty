@@ -1,4 +1,4 @@
-From Accuracy to Uncertainty: A Framework for RBF Interpolation Comparable to Kriging
+From Accuracy to Uncertainty: A Framework for RBF Interpolation Comparable to Kriging 
 MATLAB Research Code and Reproducibility Package
 This repository provides the MATLAB research code accompanying the article to be published in Applied Mathematics and Computation (Elsevier).
 The package includes Global-RBF and Local-RBF implementations, parameter optimisation, bootstrap uncertainty calibration, transfer-sensitivity and ablation analyses, and scripts for generating the principal manuscript figures and tables.
